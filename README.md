@@ -14,3 +14,5 @@ The objective of this game is to find all the matches with the least amount of t
 When all the matches are found a modal popup displays the time, number of moves, and a star rating. 
 
 The game includes a restart button. 
+
+Some parts of may have been obtained from online resources in an attempt to learn about the process. sites such as sitepoint and videos from youTube. 
